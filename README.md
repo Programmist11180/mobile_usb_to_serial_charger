@@ -1,4 +1,4 @@
-mobile_usb_charger
+mobile_usb_to_serial_charger
 ==================
 
 Program to enable charging for mobile phones with usb-to-serial cables
